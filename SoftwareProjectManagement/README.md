@@ -99,7 +99,7 @@
 + [سید علی محترمی](https://samashiyane.github.io)   
   -  [@samashiyane](https://github.com/samashiyane)
 
-+ [افسانه پویا](https://afsaneh-pouya.github.io)   
++ [افسانه پویا](https://mrspouya.github.io)   
   -  [@mrspouya](https://github.com/mrspouya)
 
 + [علی علی اکبری دهکردی](https://alialiakbaridehkordi.github.io)   
