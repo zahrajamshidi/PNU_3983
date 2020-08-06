@@ -120,11 +120,11 @@
 
 - دانلود کل پروژه
 
-      git clone https://github.com/mrganji9/Project-Management.git
+      git clone https://github.com/AliRazavi-edu/PNU_3983.git
   
 - دریافت آخرین تغییرات اعمال شده روی فایلها
 
-      git pull https://github.com/mrganji9/Project-Management.git
+      git pull https://github.com/AliRazavi-edu/PNU_3983.git
 
 - ارسال آخرین تغییرات شما برروی فایلهای مد نظر
 
