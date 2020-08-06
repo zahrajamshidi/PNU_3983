@@ -84,23 +84,32 @@
 ### اسامی دانشجویان و تقسیم بندی فایل ها
 
 
-+ [محمد گنجی](https://mrganji9.github.io)
++ [محمد گنجی](https://mrganji9.github.io)  
+  - [@mrganji9](https://github.com/mrganji9)
 
 + [محمد کدخدایی](https://mohammadkad.github.io)
+  - [@mohammadkad](https://github.com/mohammadkad)
 
-+ [معصومه طاهری](https://taherimasoomeh475.github.io)
++ [معصومه طاهری](https://taherimasoomeh475.github.io)  
+  -   [@taherimasoomeh475](https://github.com/taherimasoomeh475)
 
-+ [شهلا فتح الهی](https://shfathollahi.github.io)
++ [شهلا فتح الهی](https://shfathollahi.github.io)  
+  -  [@shfathollahi](https://github.com/shfathollahi)
 
-+ [سید علی محترمی](https://samashiyane.github.io)
++ [سید علی محترمی](https://samashiyane.github.io)   
+  -  [@samashiyane](https://github.com/samashiyane)
 
-+ [افسانه پویا](https://msrpouya.github.io)
++ [افسانه پویا](https://afsaneh-pouya.github.io)   
+  -  [@mrspouya](https://github.com/mrspouya)
 
-+ [علی علی اکبری دهکردی](https://alialiakbaridehkordi.github.io)
++ [علی علی اکبری دهکردی](https://alialiakbaridehkordi.github.io)   
+   - [@alialiakbaridehkordi](https://github.com/alialiakbaridehkordi)
 
-+ [زهرا بخشعلی زاده](https://zahranakhshalizadeh.github.io)
++ [زهرا بخشعلی زاده](https://zahranakhshalizadeh.github.io)   
+   - [@zahranakhshalizadeh](https://github.com/zahranakhshalizadeh)
 
 + [بهرام اسد پور](https://akmcho.github.io)
+    - [@akmcho](https://github.com/akmcho)
 
 
 
