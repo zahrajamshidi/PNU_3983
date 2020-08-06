@@ -102,8 +102,8 @@
 + [افسانه پویا](https://mrspouya.github.io)   
   -  [@mrspouya](https://github.com/mrspouya)
 
-+ [علی علی اکبری دهکردی](https://alialiakbaridehkordi.github.io)   
-   - [@alialiakbaridehkordi](https://github.com/alialiakbaridehkordi)
++ [علی علی اکبری دهکردی](https://alialiakkbaridehkordi.github.io)   
+   - [@alialiakbaridehkordi](https://github.com/alialiakkbaridehkordi)
 
 + [زهرا بخشعلی زاده](https://zahranakhshalizadeh.github.io)   
    - [@zahranakhshalizadeh](https://github.com/zahranakhshalizadeh)
