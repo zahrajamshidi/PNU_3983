@@ -111,8 +111,8 @@
 + [بهرام اسد پور](https://akmcho.github.io)
     - [@akmcho](https://github.com/akmcho)
 
-+ [علیرضا سعیدی پور](https://alirezasaeidipour.github.io)
-    - [@akmcho](https://github.com/alirezasaeidipour)
++ [علیرضا سعیدی پور](https://alirezasaeidipour.github.io)  **
+    - [@alirezasaeidipour](https://github.com/alirezasaeidipour)
 
 
 ---
