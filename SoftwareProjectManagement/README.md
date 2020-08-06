@@ -1,4 +1,4 @@
-## Project-Management
+## Software Project Management
 
 > درس مدیریت پروژه های نرم افزاری - تابستان ۹۹
 
