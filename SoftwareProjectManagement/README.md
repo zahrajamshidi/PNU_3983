@@ -83,17 +83,25 @@
 ---
 ### اسامی دانشجویان و تقسیم بندی فایل ها
 
-۱. محمد گنجی 
 
-۲. رسول منیری
++ [محمد گنجی](https://mrganji9.github.io)
 
-۳. 
++ [محمد کدخدایی](https://mohammadkad.github.io)
 
-۴.
++ [معصومه طاهری](https://taherimasoomeh475.github.io)
 
-۵.
++ [شهلا فتح الهی](https://shfathollahi.github.io)
 
-۶.
++ [سید علی محترمی](https://samashiyane.github.io)
+
++ [افسانه پویا](https://msrpouya.github.io)
+
++ [علی علی اکبری دهکردی](https://alialiakbaridehkordi.github.io)
+
++ [زهرا بخشعلی زاده](https://zahranakhshalizadeh.github.io)
+
++ [بهرام اسد پور](https://akmcho.github.io)
+
 
 
 ---
