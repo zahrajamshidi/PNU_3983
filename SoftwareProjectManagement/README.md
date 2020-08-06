@@ -105,8 +105,8 @@
 + [علی علی اکبری دهکردی](https://alialiakkbaridehkordi.github.io)   
    - [@alialiakbaridehkordi](https://github.com/alialiakkbaridehkordi)
 
-+ [زهرا بخشعلی زاده](https://zahranakhshalizadeh.github.io)   
-   - [@zahranakhshalizadeh](https://github.com/zahranakhshalizadeh)
++ [زهرا بخشعلی زاده](https://zahrabakhshalizadeh.github.io)   
+   - [@zahranakhshalizadeh](https://github.com/zahrabakhshalizadeh)
 
 + [بهرام اسد پور](https://akmcho.github.io)
     - [@akmcho](https://github.com/akmcho)
