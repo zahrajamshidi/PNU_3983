@@ -8,25 +8,45 @@
 
 
 1.فصل هفده:
---
+
+<br>
 2.فصل نوزده:الگوریتم هیپ فیبوناچی
+
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
   - [@abouhamze-fahime](https://github.com/abouhamze-fahime)
---
+
+<br>
+
 3.فصل بیست:
+
+
+<br>
 
 4.فصل بیست و یک:
 
+<br>
+
 5.فصل بیست و شیش: الگوریتم اِدموندز-کارپ
+
+
+<br>
 
 6.( relabel-to-front)فصل بیست و شیش:الگوریتم
 
+
+
+<br>
 7.(push-relabel)فصل بیست و شیش:الگوریتم
---
+
+
+<br>
 8.فصل بیست و شیش:الگوریتم فورد-فولکرسون
+
 + [محمد گنجی](https://mrganji9.github.io)  
   - [@mrganji9](https://github.com/mrganji9)
---
+
+
+<br>
 9.فصل بیست و هفت: الگوریتم چندنخی
 
 10.(FFT )فصل سی: الگوریتم
