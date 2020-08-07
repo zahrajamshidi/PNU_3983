@@ -29,7 +29,7 @@
 
 5.فصل 26: الگوریتم اِدموندز-کارپ
 
-+ [سحر رجبی](https://https://saharrajabi.github.io)  
++ [سحر رجبی](https://saharrajabi.github.io/)  
   - [@Saharrajabi](http://github.com/Saharrajabi)
 
 <br>
