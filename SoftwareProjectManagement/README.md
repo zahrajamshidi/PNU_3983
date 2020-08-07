@@ -96,7 +96,7 @@
 + [شهلا فتح الهی](https://shfathollahi.github.io)  
   -  [@shfathollahi](https://github.com/shfathollahi)
 
-+ [سید علی محترمی](https://samashiyane.github.io)  ** 
++ [سید علی محترمی](https://samashiyane.github.io)  
   -  [@samashiyane](https://github.com/samashiyane)
 
 + [افسانه پویا](https://mrspouya.github.io)   
@@ -114,7 +114,14 @@
 + [علیرضا سعیدی پور](https://alirezasaeidipour.github.io)  **
     - [@alirezasaeidipour](https://github.com/alirezasaeidipour)
 
-
++ [فریبا محمدی پور](https://Fmohammadipour.github.io)
+    - [@Fmohammadipour](https://github.com/Fmohammadipour)
+    
++ [رسول منیری](https://rasoolmoniri.github.io)
+    - [@rasoolmoniri](https://github.com/rasoolmoniri)
+    
+    
+    
 ---
 ### راهنمای استفاده از دستورات گیت
 
