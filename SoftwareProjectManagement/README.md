@@ -120,7 +120,12 @@
 + [رسول منیری](https://rasoolmoniri.github.io)
     - [@rasoolmoniri](https://github.com/rasoolmoniri)
     
-    
++ [پروانه خانی](https://parvanekh.github.io)
+   - [@parvanekh](https://github.com/parvanekh)
+        
+ + [علیرضا نظری](https://alirezanazariii.github.io)
+    - [@alirezanazariii](https://github.com/alirezanazariii)
+                
     
 ---
 ### راهنمای استفاده از دستورات گیت
