@@ -42,6 +42,9 @@
 
 7.(push-relabel)فصل بیست و شیش:الگوریتم
 
++ [فریبا محمدی پور](https://fmohammadipour.github.io/)  
+  - [@fmohammadipour](https://github.com/fmohammadipour)
+
 
 <br>
 
@@ -61,31 +64,37 @@
 
 10.(FFT )فصل سی: الگوریتم
 
++ [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
+  - [@ahmad943](https://github.com/ahmad943)
 
 
 <br>
 
 11.فصل سی و دو:الگوریتم ابتدایی تطبیق رشته 
 
++ [علی رضوان](https://ali-rezvan.github.io/)  
+  - [@ali-rezvan](https://github.com/ali-rezvan)
 
 <br>
 
 12.فصل سی و دو:الگوریتم رابین-کرپ
 
-+ [سیدعباس حسینی](http://abbas1991h.github.io/)  
-  - [@abbas1991h](https://github.com/abbas1991h)
++ [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
+  - [@alirezarazmhoo](https://github.com/alirezarazmhoo/PrimAlgorithm.git)
 
 <br>
 
 13.فصل سی و دو:الگوریتم کنوت -موریس-پرات
 
-
++ [سالار بهادر](https://salibhdr.github.io/resume/)  
+  - [@SaliBhdr](https://github.com/SaliBhdr)
 
 <br>
 
 14.فصل سی وسه:الگوریتم جارویی
 
-
++ [سیدعباس حسینی](http://abbas1991h.github.io/)  
+  - [@abbas1991h](https://github.com/abbas1991h)
 
 <br>
 
