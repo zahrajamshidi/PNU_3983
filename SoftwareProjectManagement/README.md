@@ -9,7 +9,6 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
 ---
 ### راهنمای نام گذاری پوشه ها بر اساس ویدئوها
 
@@ -18,23 +17,17 @@
 ۱. مبانی مدیریت پروژه نرم افزار
 - [_02_linkedin-software-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_02_linkedin-software-project-management-foundations/en) : 20 videos
 
-
 <br>
-
 ۲. مقایسه مدیریت پروژه Agile در مقابل Waterfall
 - [_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos
-
-
 <br>
 
 ۳. آموزش گردش کار تولید کارامد برای پایتون
 - `linkedin-efficient-python-production-workflows` : 40 videos
 
 <br>
-
 ۴. آموزش هنر مدیریت پروژه برای مهندسان IT و نرم افزار
 - `packtpub-the-art-of-project-management-for-software-and-it-engineers-video` : ? videos
-
 <br>
 
 ۵. آموزش ترکیب متدهای مدیریت پروژه
