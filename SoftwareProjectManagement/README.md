@@ -22,7 +22,7 @@
 <br>
 
 ۲. مقایسه مدیریت پروژه Agile در مقابل Waterfall
-- [SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos
+- [_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos
 
 
 <br>
