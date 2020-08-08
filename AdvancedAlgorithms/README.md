@@ -117,7 +117,8 @@
 + [علی رضوان](https://ali-rezvan.github.io/)  
   - [@ali-rezvan](https://github.com/ali-rezvan)
   
-  + [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
+  
++ [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
   - [@alirezarazmhoo](https://github.com/alirezarazmhoo/PrimAlgorithm.git)
 
 + [سالار بهادر](https://salibhdr.github.io/resume/)  
