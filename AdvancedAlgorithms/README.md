@@ -27,7 +27,7 @@
 ## IV Advanced Design and Analysis Techniques
 - 15 Dynamic Programming
 - 16 Greedy Algorithms
-- 17 Amortized Analysis **
+- 17 [Amortized Analysis **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/IV%20Advanced%20Design%20and%20Analysis%20Techniques/17%20Amortized%20Analysis")
 ## V Advanced Data Structures
 - 18 B-Trees
 - 19 Fibonacci Heap **
