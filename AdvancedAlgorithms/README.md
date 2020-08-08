@@ -38,7 +38,7 @@
 - 23 Minimum Spanning Trees
 - 24 Single-Source Shortest Paths
 - 25 All-Pairs Shortest Paths
-- 26 Maximum Flow
+- 26 [Maximum Flow](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow "ماکزیمم جریان")
 ## VII Selected Topics
 - 27 Multithreaded Algorithms
 - 28 Matrix Operations
