@@ -66,7 +66,8 @@
 ### اسامی دانشجویان و تقسیم بندی الگوریتم ها
 
 
-فصل 19:الگوریتم هیپ فیبوناچی
+ الگوریتم هیپ فیبوناچی:فصل 19
+
 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
 
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
