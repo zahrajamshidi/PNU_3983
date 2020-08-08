@@ -24,7 +24,7 @@
 
 <br>
 
-۳. [آموزش گردش کار تولید کارامد برای پایتون](https://git.ir/linkedin-comparing-agile-versus-waterfall-project-management)
+۳. [آموزش گردش کار تولید کارامد برای پایتون](https://git.ir/linkedin-efficient-python-production-workflows)
 - `linkedin-efficient-python-production-workflows` : 40 videos
 
 <br>
