@@ -4,7 +4,7 @@
 >
 >
 >
----
+
 
 # Table of contents
 ## I Foundations
@@ -31,7 +31,7 @@
 ## V Advanced Data Structures
 - 18 B-Trees
 - 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
-- 20 Van Emde Boas Trees
+- 20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
 - 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
 ## VI Graph Algorithms
 - 22 Elementary Graph Algorithms
@@ -60,3 +60,19 @@
 ---
 #  نمونه سایت های آموزشی
 - https://visualgo.net/en
+
+---
+### راهنمای استفاده از دستورات گیت
+
+- دانلود کل پروژه
+
+      git clone https://github.com/AliRazavi-edu/PNU_3983.git
+  
+- دریافت آخرین تغییرات اعمال شده روی فایلها
+
+      git pull https://github.com/AliRazavi-edu/PNU_3983.git
+
+- ارسال آخرین تغییرات شما برروی فایلهای مد نظر
+
+      git commit -m “[type your commit message]”
+      git push origin master
