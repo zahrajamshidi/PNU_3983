@@ -24,7 +24,7 @@
 
 - [_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos
 
-<br>
+<br dir=rtl>
 
 ۳. آموزش گردش کار تولید کارامد برای پایتون
 - `linkedin-efficient-python-production-workflows` : 40 videos
