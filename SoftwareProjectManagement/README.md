@@ -45,7 +45,7 @@
 <br>
 
 ۷. [آموزش مدیریت پروژه Agile و Agile Delivery](https://git.ir/packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video)
-- [_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery) : ? videos
+- [_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery) : 12 videos
 
 <br>
 
@@ -70,12 +70,12 @@
 <br>
 
 ۱۲. [آموزش مدیریت تغییر Agile برای تولید کنندگان](https://git.ir/linkedin-agile-change-management-for-manufacturers)
-- [_19_linkedin-agile-change-management-for-manufacturers](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_19_linkedin-agile-change-management-for-manufacturers) : ? videos
+- [_19_linkedin-agile-change-management-for-manufacturers](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_19_linkedin-agile-change-management-for-manufacturers) : 24 videos
 
 <br>
 
 ۱۳. [آموزش ایجاد و مدیریت کانال یوتیوب](https://git.ir/lynda-creating-and-managing-a-youtube-channel)
-- [_20_lynda-creating-and-managing-a-youtube-channel](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_20_lynda-creating-and-managing-a-youtube-channel) : ? videos
+- [_20_lynda-creating-and-managing-a-youtube-channel](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_20_lynda-creating-and-managing-a-youtube-channel) : 54 videos
 
 <br>
 <br>
