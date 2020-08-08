@@ -30,7 +30,7 @@
 <br>
 
 ۴. آموزش هنر مدیریت پروژه برای مهندسان IT و نرم افزار
-- `packtpub-the-art-of-project-management-for-software-and-it-engineers-video` : ? videos
+- `packtpub-the-art-of-project-management-for-software-and-it-engineers-video` : ? videos -->(برای ایجاد زیر نویس قرار داده نشده!)
 
 <br>
 
