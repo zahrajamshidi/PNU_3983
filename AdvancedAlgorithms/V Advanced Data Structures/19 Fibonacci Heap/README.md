@@ -6,7 +6,7 @@
 
 <br>
 
-1.فصل 19:الگوریتم هیپ فیبوناچی
+الگوریتم هیپ فیبوناچی.1  
 
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
   - [@abouhamze-fahime](https://github.com/abouhamze-fahime)
