@@ -50,7 +50,9 @@
 
 8.
 فصل 26:الگوریتم فورد-فولکرسون
-[Ford–Fulkerson algorithm](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Ford-Folkerson "الگوریتم فورد-فولکرسون")
+
+[الگوریتم فورد-فولکرسون](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Ford-Folkerson "Ford–Fulkerson algorithm")
+
 + [محمد گنجی](https://mrganji9.github.io)  
   - [@mrganji9](https://github.com/mrganji9)
 
