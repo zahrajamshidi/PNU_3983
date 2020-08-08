@@ -65,13 +65,13 @@
 ---
 ### اسامی دانشجویان بر اساس انتخاب فصل
 
--17 [Amortized Analysis **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/IV%20Advanced%20Design%20and%20Analysis%20Techniques/17%20Amortized%20Analysis)
+- 17 [Amortized Analysis **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/IV%20Advanced%20Design%20and%20Analysis%20Techniques/17%20Amortized%20Analysis)
 
 
 
 <br>
 
--19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
+- 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
 
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
   - [@abouhamze-fahime](https://github.com/abouhamze-fahime)
@@ -80,14 +80,14 @@
   
   <br>
   
- -20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
+ - 20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
 
 
 
 
 <br>
 
-- 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
+- 21 [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
 
 
 
@@ -102,7 +102,7 @@
  
 <br>
 
--30 [Polynomials and the FFT **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/30%20Polynomials%20and%20the%20FFT)
+- 30 [Polynomials and the FFT **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/30%20Polynomials%20and%20the%20FFT)
 
 + [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
   - [@ahmad943](https://github.com/ahmad943)
@@ -112,7 +112,7 @@
   
 <br>
 
--32 [String Matching **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/32%20String%20Matching)
+- 32 [String Matching **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/32%20String%20Matching)
 
 + [علی رضوان](https://ali-rezvan.github.io/)  
   - [@ali-rezvan](https://github.com/ali-rezvan)
