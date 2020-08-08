@@ -92,7 +92,7 @@
 + [محمد گنجی](https://mrganji9.github.io)  
   - [@mrganji9](https://github.com/mrganji9)
 
-+ [محمد کدخدایی](https://mohammadkad.github.io)
++ [محمد کدخدایی](https://mohammadkad.github.io) [صفحه دوم](https://mohammadkad.github.io/resume/index.html)
   - [@mohammadkad](https://github.com/mohammadkad)
 
 + [معصومه طاهری](https://taherimasoomeh475.github.io)  
