@@ -15,8 +15,8 @@
 
 **نام گذاری پوشه های ایجاد شده در پروژه به ترتیب زیر است :**
 
-۱. [_02_linkedin-software-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_02_linkedin-software-project-management-foundations/en)مبانی مدیریت پروژه نرم افزار
-- `linkedin-software-project-management-foundations` : 20 videos
+۱. مبانی مدیریت پروژه نرم افزار
+- `[_02_linkedin-software-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_02_linkedin-software-project-management-foundations/en)` : 20 videos
 
 
 <br>
