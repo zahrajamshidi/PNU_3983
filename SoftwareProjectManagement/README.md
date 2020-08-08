@@ -24,7 +24,7 @@
 
 <br>
 
-۳. آموزش گردش کار تولید کارامد برای پایتون
+۳. [آموزش گردش کار تولید کارامد برای پایتون](https://git.ir/linkedin-comparing-agile-versus-waterfall-project-management)
 - `linkedin-efficient-python-production-workflows` : 40 videos
 
 <br>
@@ -34,47 +34,47 @@
 
 <br>
 
-۵. آموزش ترکیب متدهای مدیریت پروژه
+۵. [آموزش ترکیب متدهای مدیریت پروژه](https://git.ir/linkedin-blending-project-management-methods)
 - `linkedin-blending-project-management-methods` : 17 videos
 
 <br>
 
-۶. مدیریت پروژه های پایتون
+۶. [مدیریت پروژه های پایتون](https://git.ir/linkedin-managing-python-projects)
 - `linkedin-managing-python-projects` : 37 videos
 
 <br>
 
-۷. آموزش مدیریت پروژه Agile و Agile Delivery
+۷. [آموزش مدیریت پروژه Agile و Agile Delivery](https://git.ir/packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video)
 - `packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video` : ? videos
 
 <br>
 
-۸. آموزش اصولی مدیریت Product Backlog در Scrum
+۸. [آموزش اصولی مدیریت Product Backlog در Scrum](https://git.ir/skillshare-scrum-product-backlog-management-the-essentials)
 - `skillshare-scrum-product-backlog-management-the-essentials` : 7 videos
 
 <br>
 
-۹. آموزش اصول مدیریت پروژه
+۹. [آموزش اصول مدیریت پروژه](https://git.ir/linkedin-project-management-foundations)
 - `linkedin-project-management-foundations` : 81 videos
 
 <br>
 
-۱۰. همکاری تحلیلگر کسب و کار با مدیر پروژه
+۱۰. [همکاری تحلیلگر کسب و کار با مدیر پروژه](https://git.ir/linkedin-business-analyst-and-project-manager-collaboration)
 - `linkedin-business-analyst-and-project-manager-collaboration` : 19 videos
 
 <br>
 
-۱۱. آموزش استخدام و مدیریت متخصصان UX
+۱۱. [آموزش استخدام و مدیریت متخصصان UX](https://git.ir/linkedin-hiring-and-managing-ux-professionals)
 - `linkedin-hiring-and-managing-ux-professionals` : 27 videos
 
 <br>
 
-۱۲. آموزش مدیریت تغییر Agile برای تولید کنندگان
+۱۲. [آموزش مدیریت تغییر Agile برای تولید کنندگان](https://git.ir/linkedin-agile-change-management-for-manufacturers)
 - `linkedin-agile-change-management-for-manufacturers` : ? videos
 
 <br>
 
-۱۳. آموزش ایجاد و مدیریت کانال یوتیوب
+۱۳. [آموزش ایجاد و مدیریت کانال یوتیوب](https://git.ir/lynda-creating-and-managing-a-youtube-channel)
 - `lynda-creating-and-managing-a-youtube-channel` : ? videos
 
 <br>
