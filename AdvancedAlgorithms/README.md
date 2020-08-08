@@ -27,7 +27,7 @@
 ## IV Advanced Design and Analysis Techniques
 - 15 Dynamic Programming
 - 16 Greedy Algorithms
-- 17 Amortized Analysis **
+**- 17 Amortized Analysis **
 ## V Advanced Data Structures
 - 18 B-Trees
 - 19 Fibonacci Heap **
@@ -54,4 +54,3 @@
 - B Sets, Etc.
 - C Counting and Probability
 - D Matrices
-
