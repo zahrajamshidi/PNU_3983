@@ -52,7 +52,8 @@ which is the right method for your project.
 
 14
 00:00:43,01 --> 00:00:45,09
-We all want to be effective project leaders
+We all want to be effective project leaders
+
 15
 00:00:45,09 --> 00:00:47,05
 in our organizations.
