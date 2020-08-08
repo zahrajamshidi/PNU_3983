@@ -65,6 +65,8 @@
 ---
 ### اسامی دانشجویان و تقسیم بندی الگوریتم ها
 
+17 [Amortized Analysis **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/IV%20Advanced%20Design%20and%20Analysis%20Techniques/17%20Amortized%20Analysis)
+
 
  الگوریتم هیپ فیبوناچی:فصل 19
 
@@ -72,8 +74,36 @@
 
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
   - [@abouhamze-fahime](https://github.com/abouhamze-fahime)
-                
-    
+  
+  
+  20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
+
+
+
+- 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
+
+
+  
+ 26 [Maximum Flow **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow "ماکزیمم جریان")
+ 
+ 
+ 
+فصل 30:(FFT ) الگوریتم
+
+30 [Polynomials and the FFT **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/30%20Polynomials%20and%20the%20FFT)
+
++ [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
+  - [@ahmad943](https://github.com/ahmad943)
+
+32 [String Matching **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/32%20String%20Matching)
+
+- 33 [Computational Geometry **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/33%20Computational%20Geometry)
+
+- 34 [NP-Completeness **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/34%20NP-Completeness)
+
+
+- 35 [Approximation Algorithms **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/35%20Approximation%20Algorithms)                
+         
 ---
 ### راهنمای استفاده از دستورات گیت
 
