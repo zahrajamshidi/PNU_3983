@@ -7,8 +7,6 @@
   * [اسامی دانشجویان و تقسیم بندی فایل ها](#اسامی-دانشجویان-و-تقسیم-بندی-فایل-ها)
   * [راهنمای استفاده از دستورات گیت](#راهنمای-استفاده-از-دستورات-گیت)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ---
 ### راهنمای نام گذاری پوشه ها بر اساس ویدئوها
 
