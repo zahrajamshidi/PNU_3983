@@ -69,7 +69,7 @@
 
 
 
-
+<br>
 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
 
 + [فهیمه ابوحمزه](https://abouhamze-fahime.github.io/Abouhamze.Fahime/)  
@@ -77,26 +77,26 @@
   
   
   
-  
+  <br>
   20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
 
 
 
 
-
+<br>
 - 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
 
 
 
 
-  
+  <br>
  26 [Maximum Flow **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow "ماکزیمم جریان")
  
  
  
  
  
-
+<br>
 30 [Polynomials and the FFT **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/30%20Polynomials%20and%20the%20FFT)
 
 + [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
@@ -105,7 +105,7 @@
   
   
   
-
+<br>
 32 [String Matching **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/32%20String%20Matching)
 
 + [علی رضوان](https://ali-rezvan.github.io/)  
@@ -125,13 +125,13 @@
   - [@abbas1991h](https://github.com/abbas1991h)
 
 
-
+<br>
 - 34 [NP-Completeness **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/34%20NP-Completeness)
 
 
 
 
-
+<br>
 - 35 [Approximation Algorithms **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VII%20Selected%20Topics/35%20Approximation%20Algorithms)
 
 + [علی ارجمند]()  
