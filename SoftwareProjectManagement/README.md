@@ -2,6 +2,12 @@
 
 > درس مدیریت پروژه های نرم افزاری - تابستان ۹۹
 
+- [Software Project Management](#software-project-management)
+  * [راهنمای نام گذاری پوشه ها بر اساس ویدئوها](#-----------------------------------------)
+  * [اسامی دانشجویان و تقسیم بندی فایل ها](#------------------------------------)
+  * [راهنمای استفاده از دستورات گیت](#------------------------------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ---
