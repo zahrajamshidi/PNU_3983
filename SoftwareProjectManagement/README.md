@@ -25,7 +25,7 @@
 <br>
 
 ۳. [آموزش گردش کار تولید کارامد برای پایتون](https://git.ir/linkedin-efficient-python-production-workflows)
-- `linkedin-efficient-python-production-workflows` : 40 videos
+- [_04_linkedin-efficient-python-production-workflows](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_04_linkedin-efficient-python-production-workflows) : 40 videos
 
 <br>
 
@@ -35,47 +35,47 @@
 <br>
 
 ۵. [آموزش ترکیب متدهای مدیریت پروژه](https://git.ir/linkedin-blending-project-management-methods)
-- `linkedin-blending-project-management-methods` : 17 videos
+- [_06_linkedin-blending-project-management-methods](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_06_linkedin-blending-project-management-methods) : 17 videos
 
 <br>
 
 ۶. [مدیریت پروژه های پایتون](https://git.ir/linkedin-managing-python-projects)
-- `linkedin-managing-python-projects` : 37 videos
+- [_08_linkedin-managing-python-projects](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_08_linkedin-managing-python-projects) : 37 videos
 
 <br>
 
 ۷. [آموزش مدیریت پروژه Agile و Agile Delivery](https://git.ir/packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video)
-- `packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video` : ? videos
+- [_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery) : ? videos
 
 <br>
 
 ۸. [آموزش اصولی مدیریت Product Backlog در Scrum](https://git.ir/skillshare-scrum-product-backlog-management-the-essentials)
-- `skillshare-scrum-product-backlog-management-the-essentials` : 7 videos
+- [_10_skillshare-scrum-product-backlog-management-the-essentials](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_10_skillshare-scrum-product-backlog-management-the-essentials) : 7 videos
 
 <br>
 
 ۹. [آموزش اصول مدیریت پروژه](https://git.ir/linkedin-project-management-foundations)
-- `linkedin-project-management-foundations` : 81 videos
+- [_11_linkedin-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_11_linkedin-project-management-foundations) : 81 videos
 
 <br>
 
 ۱۰. [همکاری تحلیلگر کسب و کار با مدیر پروژه](https://git.ir/linkedin-business-analyst-and-project-manager-collaboration)
-- `linkedin-business-analyst-and-project-manager-collaboration` : 19 videos
+- [_12_linkedin-business-analyst-and-project-manager-collaboration](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_12_linkedin-business-analyst-and-project-manager-collaboration) : 19 videos
 
 <br>
 
 ۱۱. [آموزش استخدام و مدیریت متخصصان UX](https://git.ir/linkedin-hiring-and-managing-ux-professionals)
-- `linkedin-hiring-and-managing-ux-professionals` : 27 videos
+- [_17_linkedin-hiring-and-managing-ux-professionals](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_17_linkedin-hiring-and-managing-ux-professionals) : 27 videos
 
 <br>
 
 ۱۲. [آموزش مدیریت تغییر Agile برای تولید کنندگان](https://git.ir/linkedin-agile-change-management-for-manufacturers)
-- `linkedin-agile-change-management-for-manufacturers` : ? videos
+- [_19_linkedin-agile-change-management-for-manufacturers](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_19_linkedin-agile-change-management-for-manufacturers) : ? videos
 
 <br>
 
 ۱۳. [آموزش ایجاد و مدیریت کانال یوتیوب](https://git.ir/lynda-creating-and-managing-a-youtube-channel)
-- `lynda-creating-and-managing-a-youtube-channel` : ? videos
+- [_20_lynda-creating-and-managing-a-youtube-channel](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_20_lynda-creating-and-managing-a-youtube-channel) : ? videos
 
 <br>
 <br>
