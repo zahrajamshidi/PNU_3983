@@ -31,7 +31,7 @@
 
 
 ---
-### اسامی دانشجویان بر اساس انتخاب الگوریتم ها
+### اسامی دانشجویان  بر اساس فصلهای کتاب کارشناسی (دانشجویان ارشد)
 
 + [سحر زینی وندمقدم]( https://saharzeinivand.github.io/)  
   - [@saharzeinivand](https://github.com/saharzeinivand)
