@@ -37,11 +37,7 @@
   - [@saharzeinivand](https://github.com/saharzeinivand)
  
  
- 
-+ [سحر رجبی]( )  
-  - [@](http://github.com/Saharrajabi)
-  
- 
+
  
  
 + [بهرام اسدپورنوروزعلی بیگلو]( )  
@@ -52,7 +48,7 @@
 
 
 + [ریوف اسفندفر]( )  
-  - [@]()
+  - [@amirrauf106](https://github.com/amirrauf106)
   
   
   
@@ -88,7 +84,7 @@
  
  
 + [عباس صالحی](https://soheilemail.github.io/ )  
-  - [@soheilemail]()
+  - [@soheilemail](https://github.com/soheilemail)
   
   
   
@@ -103,7 +99,7 @@
   
   
 + [پوریا صفری]( https://pooriasafari.github.io)  
-  - [@pooriasafari]()
+  - [@pooriasafari](https://github.com/pooriasafari)
   
   
   
