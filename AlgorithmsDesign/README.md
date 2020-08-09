@@ -7,10 +7,17 @@
 ---
 ### راهنمای نام گذاری پوشه ها 
 
+  [فصل های کتاب طراحی الگوریتم کارشناسی](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AlgorithmsDesign/_Chapters)
   
----
-### راهنمای نام گذاری پوشه ها بر اساس سوالات برای دانشجویان کارشناسی
-
-***دانشجویان کارشناسی دقت داشته باشند که در پوشه مربوط به نیم سال مشخص شده برای آنها باید فایل های خود را ایجاد کنند و در سایر پوشه ها مجاز به تغییر نیستند***
+  
+  
+  [سوالات امتحان پایان ترم](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AlgorithmsDesign/_Exams)
+  
+  
+  
+  [دانشجویان کارشناسی](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AlgorithmsDesign/_Students)
+  
+   
  
- [لیست ارائه سوالات پایان ترم](https://github.com/AliRazavi-edu/PNU_3983/blob/master/AlgorithmsDesign/list.pdf)
+ 
+
