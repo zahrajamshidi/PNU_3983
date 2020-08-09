@@ -1,0 +1,272 @@
+0
+00:00:00.0 --> 00:00:03.0
+We could all site my projects we’ve been on
+
+1
+00:00:03.00 --> 00:00:06.0
+have failed and research studies give us many
+
+2
+00:00:06.0 --> 00:00:09.0
+clues as well but have you ever really
+
+3
+00:00:09.0 --> 00:00:12.0
+looked at how the PM and BA relationship could
+
+4
+00:00:12.0 --> 00:00:15.0
+contribute to these failures and possibly even
+
+5
+00:00:15.0 --> 00:00:18.0
+prevent them let’s look at a few ideas
+
+6
+00:00:18.0 --> 00:00:21.0
+first - lack of stakeholder engagement
+
+7
+00:00:21.0 --> 00:00:24.0
+and involvement and this includes engage
+
+8
+00:00:24.0 --> 00:00:27.0
+sponsor and sponsors having clear vision
+
+9
+00:00:27.0 --> 00:00:30.0
+and objectives. the BA and PM
+
+10
+00:00:30.0 --> 00:00:33.0
+have key roles and helping the leaders
+
+11
+00:00:33.00 --> 00:00:36.0
+take the vision and objectives and
+
+12
+00:00:36.0 --> 00:00:39.0
+turn them from strategy to execution
+
+13
+00:00:39.0 --> 00:00:42.0
+stakeholder involvement at the leader and contributor
+
+14
+00:00:42.0 --> 00:00:45.0
+levels is key to making the strategy and vision
+
+15
+00:00:45.0 --> 00:00:48.0
+a reality . the PM
+
+16
+00:00:48.0 --> 00:00:51.0
+and BA are the team members that interact with
+
+17
+00:00:51.0 --> 00:00:54.0
+stakeholders and leaders the most throughout the project
+
+18
+00:00:54.0 --> 00:00:57.0
+when both brawls are interacting with the same
+
+19
+00:00:57.0 --> 00:01:00.0
+stakeholders and often does it
+
+20
+00:01:00.0 --> 00:01:03.0
+need to collaborate tightly I miss interactions
+
+21
+00:01:03.0 --> 00:01:06.0
+to keep stakeholder engagement high
+
+22
+00:01:06.0 --> 00:01:09.0
+the stakeholders typically have full-time roles outside
+
+23
+00:01:09.0 --> 00:01:12.0
+of the project so keeping the engagement strong
+
+24
+00:01:12.0 --> 00:01:15.0
+get not burdensome is a key element
+
+25
+00:01:15.0 --> 00:01:18.0
+next - changing priorities is a key failure
+
+26
+00:01:18.0 --> 00:01:21.0
+points. how teams handle changing priorities
+
+27
+00:01:21.0 --> 00:01:24.0
+can have a huge impact on if
+
+28
+00:01:24.0 --> 00:01:27.0
+Value gets delivered on projects this failure point
+
+29
+00:01:27.0 --> 00:01:30.0
+also points back to stakeholder involvement.
+
+30
+00:01:30.0 --> 00:01:33.0
+the PM in BA are both
+
+31
+00:01:33.0 --> 00:01:36.0
+heavily involved in managing priorities with
+
+32
+00:01:36.0 --> 00:01:40.0
+stakeholders and influencing stakeholders on prioritization.
+
+33
+00:01:40.0 --> 00:01:43.0
+and last - changing requirements.
+
+34
+00:01:43.0 --> 00:01:46.0
+changing requirements can be a good thing or
+
+35
+00:01:46.0 --> 00:01:49.0
+a bad thing. in bracing changing
+
+36
+00:01:49.0 --> 00:01:52.0
+requirements can lead to a competitive advantage
+
+37
+00:01:52.0 --> 00:01:55.0
+of the changes are result of learning more
+
+38
+00:01:55.0 --> 00:01:58.0
+about what customers and users needs are
+
+39
+00:01:58.0 --> 00:02:01.0
+at the same time if the project can’t
+
+40
+00:02:01.0 --> 00:02:04.0
+seem to deliver anything do the starts and stops
+
+41
+00:02:04.0 --> 00:02:07.0
+with constant changes , this can be to failure
+
+42
+00:02:07.0 --> 00:02:10.0
+the PM and BA
+
+43
+00:02:10.0 --> 00:02:13.0
+collaborate heavily on helping stakeholders in the team ,
+
+44
+00:02:13.0 --> 00:02:16.0
+identify and manage requirements
+
+45
+00:02:16.0 --> 00:02:19.0
+into pieces of work. these deliverables
+
+46
+00:02:19.0 --> 00:02:22.0
+if not well defined can be delivered in
+
+47
+00:02:22.0 --> 00:02:25.0
+increments that make requirements change less risky
+
+48
+00:02:25.0 --> 00:02:28.0
+while leveraging change for a competitive advantage
+
+49
+00:02:28.0 --> 00:02:31.0
+Pat PM and Bailey BA start getting
+
+50
+00:02:31.0 --> 00:02:34.0
+into deep discussions on what does success
+
+51
+00:02:34.0 --> 00:02:37.0
+mean on a project anyway
+
+52
+00:02:37.0 --> 00:02:40.0
+is it when a project is delivered on schedule
+
+53
+00:02:40.0 --> 00:02:43.0
+within budget results in a working product
+
+54
+00:02:43.0 --> 00:02:46.0
+or meets the business intent
+
+55
+00:02:46.0 --> 00:02:49.0
+they determine that the best approach for them is
+
+56
+00:02:49.0 --> 00:02:52.0
+to collaborate on the finance successful projects with stakeholders
+
+57
+00:02:52.0 --> 00:02:55.0
+the business intent maybe to
+
+58
+00:02:55.0 --> 00:02:58.0
+beat a competitor to market was sacrificing quality
+
+59
+00:02:58.0 --> 00:03:01.0
+and cost time is most important
+
+60
+00:03:01.0 --> 00:03:04.0
+to success or the product
+
+61
+00:03:04.0 --> 00:03:07.0
+working at a determined quality level with customer delight
+
+62
+00:03:07.0 --> 00:03:10.0
+may be far more important than cost and schedule
+
+63
+00:03:10.0 --> 00:03:13.0
+most leaders want cost schedule and
+
+64
+00:03:13.0 --> 00:03:16.0
+quality while delayed in the customer but
+
+65
+00:03:16.0 --> 00:03:19.0
+it’s important to know which is leading the success equation
+
+66
+00:03:19.0 --> 00:03:22.0
+Pat and Bailey has found that this
+
+67
+00:03:22.0 --> 00:03:25.0
+is dramatically changed how they work and collaborate
+
