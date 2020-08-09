@@ -85,7 +85,7 @@
   
   
 + [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
-  - [@alirezarazmhoo](https://github.com/alirezarazmhoo/PrimAlgorithm.git)
+  - [@alirezarazmhoo](https://github.com/alirezarazmhoo)
 
 + [سالار بهادر](https://salibhdr.github.io/resume/)  
   - [@SaliBhdr](https://github.com/SaliBhdr)
