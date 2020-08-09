@@ -8,5 +8,6 @@
 
 14.فصل 33:الگوریتم جارویی
 
-+ [سیدعباس حسینی](http://abbas1991h.github.io/)  
-  - [@abbas1991h](https://github.com/abbas1991h)
+
++ [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
+  - [@alirezarazmhoo](https://github.com/alirezarazmhoo/PrimAlgorithm.git)
